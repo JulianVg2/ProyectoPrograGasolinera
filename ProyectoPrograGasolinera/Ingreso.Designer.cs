@@ -51,7 +51,7 @@
             // 
             this.groupBox1.Controls.Add(this.rdbprepago);
             this.groupBox1.Controls.Add(this.rdbprepagolleno);
-            this.groupBox1.Location = new System.Drawing.Point(30, 228);
+            this.groupBox1.Location = new System.Drawing.Point(478, 30);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(116, 54);
             this.groupBox1.TabIndex = 46;
@@ -88,7 +88,7 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(22, 319);
+            this.btnGuardar.Location = new System.Drawing.Point(470, 121);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(124, 25);
             this.btnGuardar.TabIndex = 44;
@@ -97,7 +97,7 @@
             // 
             // btnRegistro
             // 
-            this.btnRegistro.Location = new System.Drawing.Point(22, 288);
+            this.btnRegistro.Location = new System.Drawing.Point(470, 90);
             this.btnRegistro.Name = "btnRegistro";
             this.btnRegistro.Size = new System.Drawing.Size(124, 25);
             this.btnRegistro.TabIndex = 43;
@@ -122,7 +122,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(22, 210);
+            this.label5.Location = new System.Drawing.Point(470, 12);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(189, 15);
             this.label5.TabIndex = 40;
@@ -198,7 +198,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(686, 205);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.dateTimeHora);
             this.Controls.Add(this.btnGuardar);
